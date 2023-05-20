@@ -1,1 +1,1 @@
-# StreamingMeger
+# StreamingMerger
